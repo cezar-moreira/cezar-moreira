@@ -9,7 +9,7 @@ Líder de Tecnologia com mais de 20 anos de trajetória, especialista em Gestão
 - **Gestão de Infraestrutura Crítica:** Mais de 20 anos gerenciando operações complexas: redes, telefonia IP, sistemas de monitoramento (CFTV) e infraestrutura física de TI.
 - **Consultoria em MedTech:** Especialista em montagem técnica de salas de ultrassom e integração de equipamentos médicos, garantindo a performance e estabilidade de sistemas de diagnóstico por imagem.
 - **Óticas Boris (16+ anos):** Gerente de TI, sendo o pilar tecnológico para a expansão e operação da rede.
-- **Engenharia Nacional:** Consultoria para as construtoras **JRN** e **Beta** em projetos de infraestrutura para o **INSS em todo o Brasil**.
+- **Engenharia Nacional:** Consultoria para as construtoras **JRN**  em projetos de infraestrutura para o **INSS em todo o Brasil** e **Beta**.
 
 ---
 
