@@ -17,7 +17,7 @@ Líder de Tecnologia com mais de 20 anos de trajetória, especialista em Gestão
 
 - **Infra & Security:** Implantação de servidores, arquitetura de redes, segurança patrimonial digital e sistemas de telefonia escaláveis.
 - **Arquitetura de Software:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- **Hardware Engineering:** Integração de sensores, automação de hardware e desenvolvimento de dispositivos IoT (Arduino/ESP32).
+- **Hardware Engineering:** Integração de sensores, automação de hardware e desenvolvimento de dispositivos IoT.
 
 ---
 
