@@ -1,37 +1,173 @@
-# 🏛️ Cezar Moreira | IT Executive & Systems Architect
+# README.md — Perfil GitHub
 
-Líder de Tecnologia com mais de 20 anos de trajetória, especialista em Gestão de TI, Infraestrutura Crítica e Consultoria Técnica. Expert em projetar e implementar ecossistemas tecnológicos que unem o mundo físico (Hardware/Infra) ao digital (Software/Cloud).
+# 👋 Cezar Moreira
+### Solutions Architect | Founder @ SoftwareHouse
 
----
+**Software • Inteligência Artificial • Automação Empresarial • Integrações • IoT • Infraestrutura**
 
-### 💼 Consultoria & Liderança Estratégica
+Profissional de Tecnologia da Informação com mais de **20 anos de experiência**, atuando desde infraestrutura, redes, hardware e gestão de TI até desenvolvimento de software, automação, integração de sistemas e Inteligência Artificial.
 
-- **Gestão de Infraestrutura Crítica:** Mais de 20 anos gerenciando operações complexas: redes, telefonia IP, sistemas de monitoramento (CFTV) e infraestrutura física de TI.
-- **Consultoria em MedTech:** Especialista em montagem técnica de salas de ultrassom e integração de equipamentos médicos, garantindo a performance e estabilidade de sistemas de diagnóstico por imagem.
-- **Óticas Boris (16+ anos):** Gerente de TI, sendo o pilar tecnológico para a expansão e operação da rede.
-- **Engenharia Nacional:** Consultoria para as construtoras **JRN**  em projetos de infraestrutura para o **INSS em todo o Brasil** e **Beta**.
+Minha experiência me permite trabalhar na interseção entre **tecnologia e operação empresarial**: entender um problema real, desenhar sua arquitetura e transformar processos manuais ou desconectados em soluções digitais integradas.
 
----
-
-### 🛠️ Expertise Técnica 360º
-
-- **Infra & Security:** Implantação de servidores, arquitetura de redes, segurança patrimonial digital e sistemas de telefonia escaláveis.
-- **Arquitetura de Software:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- **Hardware Engineering:** Integração de sensores, automação de hardware e desenvolvimento de dispositivos IoT.
+Atualmente, concentro meu trabalho na **SoftwareHouse**, desenvolvendo sistemas, automações e integrações com foco em eficiência operacional e criação de soluções que possam evoluir para produtos escaláveis.
 
 ---
 
-### 🧪 Projetos de Inovação
-- **MedTech & Imaging:** Arquitetura de sistemas de captura diagnóstica e automação de workflow para salas de exames.
-- **VoltSense:** Solução proprietária para monitoramento energético em tempo real.
-- **Software House Colaborativa:** Mentor e Arquiteto de times de alto desempenho.
+## 🚀 O que eu faço
+
+### 🏗️ Arquitetura de Soluções
+Desenho soluções de ponta a ponta considerando aplicação, infraestrutura, integrações, segurança, implantação, manutenção e evolução.
+
+### 🤖 IA & Automação Empresarial
+Aplicação de Inteligência Artificial e automação para reduzir tarefas repetitivas, melhorar atendimento e integrar processos empresariais.
+
+### 💻 Desenvolvimento de Software
+Desenvolvimento de aplicações web, backends, APIs e integrações utilizando tecnologias como **Python, Flask, Node.js, JavaScript e bancos de dados**.
+
+### 🔗 Integração de Sistemas
+Integração entre APIs, sistemas empresariais, WhatsApp, serviços externos e aplicações próprias.
+
+### 🌐 Infraestrutura & Cloud
+Experiência com redes, servidores, Linux/VPS, telefonia IP, CFTV, segurança, backup e infraestrutura corporativa.
+
+### ⚡ IoT & Telemetria
+Integração entre hardware e software para monitoramento, automação, sensores e aquisição de dados.
 
 ---
 
-### 📊 GitHub Activity
-![Estatísticas de Cezar](https://github-readme-stats.vercel.app/api?username=cezar-moreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+## 🧠 Experiência
+
+Minha trajetória começou muito antes da atual geração de Inteligência Artificial.
+
+Ao longo de mais de duas décadas trabalhei com **hardware, redes, servidores, telefonia, infraestrutura, suporte, sistemas empresariais e gestão de ambientes de TI**.
+
+Essa base hoje é combinada com desenvolvimento de software, cloud, APIs, automação e IA.
+
+Entre as experiências profissionais estão:
+
+- mais de **16 anos de atuação em TI nas Óticas Boris**, acompanhando e sustentando tecnologicamente a operação;
+- projetos de infraestrutura tecnológica;
+- consultoria técnica para ambientes empresariais;
+- infraestrutura e integração tecnológica para ambientes clínicos;
+- implantação e manutenção de redes, servidores, telefonia e monitoramento;
+- desenvolvimento de sistemas e automações empresariais;
+- integração entre hardware, software e serviços em nuvem.
 
 ---
 
-### 🎯 Foco Atual
-Consultoria em Inovação, Arquitetura SaaS e Mentoria de Squads de Desenvolvimento.
+## 🩺 MedTech
+
+Atuação na implantação e integração tecnológica de ambientes clínicos, envolvendo infraestrutura, estações de trabalho, redes, sistemas, equipamentos de diagnóstico por imagem e fluxos operacionais.
+
+Essa experiência também levou ao desenvolvimento de soluções próprias para automação de processos no segmento de saúde.
+
+---
+
+## 🧪 Projetos
+
+### 🩺 Clinovix
+
+Solução em desenvolvimento voltada à automação e operação de clínicas.
+
+O projeto integra diferentes componentes tecnológicos para atendimento, agendamento e automação de processos.
+
+**Tecnologias e conceitos envolvidos:**
+
+`Python` • `Flask` • `APIs` • `WhatsApp` • `IA` • `Banco de Dados` • `Backup` • `Segurança`
+
+**Objetivo:** transformar processos manuais e fragmentados em uma operação mais integrada e automatizada.
+
+---
+
+### 🤖 Automação com IA + WhatsApp
+
+Desenvolvimento de arquiteturas para utilização de agentes inteligentes em atendimento e processos empresariais.
+
+Integrações envolvendo:
+
+`WhatsApp` • `Evolution API` • `LLMs` • `APIs` • `Webhooks` • `Automação`
+
+---
+
+### ⚡ VoltSense
+
+Projeto voltado ao monitoramento energético e telemetria, conectando hardware, sensores e software para aquisição e acompanhamento de informações.
+
+---
+
+### 🌐 Soluções Empresariais
+
+Desenvolvimento de sistemas e integrações para necessidades reais de empresas, incluindo automação operacional, sistemas web, atendimento, integrações e digitalização de processos.
+
+---
+
+## 🛠️ Tecnologias
+
+**Backend & Software**
+
+`Python` • `Flask` • `Node.js` • `JavaScript`
+
+**Integrações**
+
+`REST APIs` • `Webhooks` • `WhatsApp` • `Evolution API`
+
+**Dados**
+
+`SQL` • `SQLite`
+
+**Infraestrutura**
+
+`Linux` • `VPS` • `Networking` • `Servers` • `CFTV` • `VoIP`
+
+**DevOps**
+
+`Git` • `GitHub` • `CI/CD`
+
+**Emerging Tech**
+
+`Artificial Intelligence` • `LLMs` • `IoT` • `Telemetry` • `Automation`
+
+---
+
+## 🔐 Engenharia & Segurança
+
+Busco desenvolver soluções considerando segurança e manutenção desde a arquitetura.
+
+Princípios utilizados nos projetos:
+
+- backup e recuperação;
+- proteção de credenciais e dados;
+- controle de acesso;
+- boas práticas de segurança;
+- LGPD;
+- documentação;
+- versionamento;
+- testes;
+- monitoramento;
+- implantação controlada.
+
+---
+
+## 🧭 Como eu trabalho
+
+**Problema → Diagnóstico → Arquitetura → Desenvolvimento → Integração → Implantação → Monitoramento → Evolução**
+
+A tecnologia utilizada pode mudar.
+
+O princípio permanece:
+
+> **Entender primeiro o problema do negócio e somente depois escolher a tecnologia.**
+
+---
+
+## 🎯 Foco Atual
+
+Atualmente concentro meus estudos e projetos em:
+
+**Inteligência Artificial aplicada a negócios • Automação Empresarial • SaaS • Integrações • WhatsApp • IoT • Arquitetura de Soluções**
+
+Meu objetivo é transformar experiência técnica acumulada em **produtos, processos e soluções tecnológicas escaláveis**, capazes de gerar valor contínuo para empresas.
+
+---
+
+### 💡 Tecnologia é a ferramenta. Resolver o problema do negócio é o objetivo.
