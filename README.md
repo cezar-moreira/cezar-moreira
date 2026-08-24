@@ -113,7 +113,7 @@ Atendo empresas e equipes que precisam de:
 
 ### 📬 Bora conversar?
 
-**📧 contato@softwarehousefortaleza.com.br**
+**📧 cezarmoreira@hotmail.com**
 **📍 Fortaleza, CE — Brasil**
 **💼 Disponível para projetos presenciais e remotos**
 
