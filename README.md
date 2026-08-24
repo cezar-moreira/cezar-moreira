@@ -1,5 +1,3 @@
-# README.md — Perfil GitHub
-
 # 👋 Cezar Moreira
 ### Solutions Architect | Founder @ SoftwareHouse
 
